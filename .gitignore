@@ -1,0 +1,46 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+obj/*
+game
+.gdb_history
+
+# Visual studio
+/bin/*
+/dependencies/*
+/Game Engine/*
+/Debug/*
+*.sln
+.vs/Game engine/v16/.suo
+.vs/Game engine/v16/Browse.VC.db
+*.ipch
+*.opendb

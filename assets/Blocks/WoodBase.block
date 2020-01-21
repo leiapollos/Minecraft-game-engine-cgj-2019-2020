@@ -1,0 +1,26 @@
+Name
+WoodBase
+
+Id
+6
+
+TexTop
+6 2
+
+TexSide
+5 2
+
+TexBottom
+6 2
+
+Opaque
+1
+
+MeshType
+0
+
+ShaderType
+0
+
+Collidable
+1
