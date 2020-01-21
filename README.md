@@ -6,5 +6,6 @@
 
 **In collaboration with:**
 
-(ada-l0velace)[https://github.com/ada-l0velace]
-(HenrySmash)[https://github.com/HenrySmash]
+[ada-l0velace](https://github.com/ada-l0velace)
+
+[HenrySmash](https://github.com/HenrySmash)
