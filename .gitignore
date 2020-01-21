@@ -36,7 +36,6 @@ game
 
 # Visual studio
 /bin/*
-/dependencies/*
 /Game Engine/*
 /Debug/*
 *.sln
