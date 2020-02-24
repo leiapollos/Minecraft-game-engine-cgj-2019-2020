@@ -2,6 +2,8 @@
 
 **Made for Computer Graphics for Games (2019-2020)**
 
+Video: https://youtu.be/KPoqw0dszVA
+
 ![Day](https://raw.githubusercontent.com/leiapollos/game-engine-cgj-2019-2020/master/media/snapshots/day.png)
 
 ![Moon](https://raw.githubusercontent.com/leiapollos/game-engine-cgj-2019-2020/master/media/snapshots/moon.png)
