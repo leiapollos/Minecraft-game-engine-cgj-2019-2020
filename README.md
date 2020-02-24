@@ -2,20 +2,15 @@
 
 **Made for Computer Graphics for Games (2019-2020)**
 
-![Day]
-(https://raw.githubusercontent.com/leiapollos/game-engine-cgj-2019-2020/master/media/snapshots/day.png)
+![Day](https://raw.githubusercontent.com/leiapollos/game-engine-cgj-2019-2020/master/media/snapshots/day.png)
 
-![Moon]
-(https://raw.githubusercontent.com/leiapollos/game-engine-cgj-2019-2020/master/media/snapshots/moon.png)
+![Moon](https://raw.githubusercontent.com/leiapollos/game-engine-cgj-2019-2020/master/media/snapshots/moon.png)
 
-![Grass]
-(https://raw.githubusercontent.com/leiapollos/game-engine-cgj-2019-2020/master/media/snapshots/grassbiome.png)
+![Grass](https://raw.githubusercontent.com/leiapollos/game-engine-cgj-2019-2020/master/media/snapshots/grassbiome.png)
 
-![Desert]
-(https://raw.githubusercontent.com/leiapollos/game-engine-cgj-2019-2020/master/media/snapshots/desert.png)
+![Desert](https://raw.githubusercontent.com/leiapollos/game-engine-cgj-2019-2020/master/media/snapshots/desert.png)
 
-![Water]
-(https://raw.githubusercontent.com/leiapollos/game-engine-cgj-2019-2020/master/media/snapshots/inside_water.png)
+![Water](https://raw.githubusercontent.com/leiapollos/game-engine-cgj-2019-2020/master/media/snapshots/inside_water.png)
 
 **In collaboration with:**
 
